@@ -1,4 +1,4 @@
-This repository contains code demonstrating the Co-learn++ method in our IJCV paper [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/pdf/2405.02954). This is an extension of the Co-learn method in our ICCV 2023 paper [Rethinking the Role of Pre-Trained Networks in Source-Free Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Rethinking_the_Role_of_Pre-Trained_Networks_in_Source-Free_Domain_Adaptation_ICCV_2023_paper.pdf)
+This repository contains code demonstrating the Co-learn++ method in our IJCV paper [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/pdf/2405.02954). This is an extension of the Co-learn method in our ICCV 2023 paper [Rethinking the Role of Pre-Trained Networks in Source-Free Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Rethinking_the_Role_of_Pre-Trained_Networks_in_Source-Free_Domain_Adaptation_ICCV_2023_paper.pdf).
 
 ### Prerequisites:
 
@@ -17,6 +17,7 @@ Install additional libraries with `pip install -r requirements.txt`.
 
 ## Citation
 
+```
 @article{zhang2024colearnplus,
     author = {Zhang, Wenyu and Shen, Li and Foo, Chuan-Sheng},
     year = {2024},
@@ -41,6 +42,7 @@ Install additional libraries with `pip install -r requirements.txt`.
     address = {Los Alamitos, CA, USA},
     month = {oct}
 }
+```
 
 ## Acknowledgements
 
