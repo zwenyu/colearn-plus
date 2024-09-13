@@ -1,0 +1,4 @@
+ipdb
+transformers == 4.20.0
+jmespath
+git+https://github.com/openai/CLIP.git
